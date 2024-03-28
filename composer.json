@@ -1,5 +1,11 @@
 {
   "name": "studservis/php-cs-fixer-ruleset",
+  "authors": [
+    {
+      "name": "samizdam",
+      "email": "samizdam@inbox.ru"
+    }
+  ],
   "description": "StudService shared PHP style rules for PHP-CS-Fixer",
   "license": "MIT",
   "require": {
