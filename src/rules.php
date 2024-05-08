@@ -39,6 +39,10 @@ return [
     'no_break_comment'                                 => false,
     'no_superfluous_phpdoc_tags'                       => true,
     'nullable_type_declaration_for_default_null_value' => true,
+
+    'php_unit_test_class_requires_covers' => false,
+    'php_unit_internal_class' => false,
+
     'ordered_class_elements'                           => ['order' => [
         'use_trait',
         'case',
